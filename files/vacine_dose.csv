@@ -1,6 +1,7 @@
-vacina_descricao_dose
-    1ª Dose
-    2ª Dose
-    3ª Dose
-    Dose 
-    Única 
+vacina_descricao_dose,vacina_descicao_categoria
+1ª Dose,1
+2ª Dose,2
+3ª Dose,3
+Dose,4
+Única,5
+
